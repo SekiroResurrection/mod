@@ -9,4 +9,4 @@
 |||
 | Korean | <h3>**의부의 축복**</h3>늑대의 마음속 기억을 일깨워 얻은 축복<br><br>안개 까마귀를 사용할 때, 카타시로 두개를 추가로 소모하여 의부의 환영을 소환한다<br><br>이 축복에는 들개였던 시절의 정이 담겨있다<br>늑대로 장성한 지금도 분명 업보를 덜어 줄 것이다<br><br>그때 함께 골랐던 잔숨처럼...<h3> |
 |||
-| German | <h3>**Segen des Vaters**</h3>Ein Segen welcher Wolf durch Verweilen auf seinen eigenen Erinnerungen erlangte.<br>Wird verwendet um den Geist des Vaters mithilfe des Nebenraben zu rufen, auf Kosten von zwei weiteren Geistemblemen.<br>Dieser Segen ruft einen Schmerz väterlicher Zuneigung hervor. Dennoch leichtert er Wolfs Last, und lässt ihn an der Seite seines Vaters kämpfen.<br><br>Wie in alten Zeiten...<h3> |
+| German | <h3>**Segen des Vaters**</h3>Ein Segen welcher Wolf durch Verweilen auf seinen eigenen Erinnerungen erlangte.<br>Wird verwendet um den Geist des Vaters mithilfe des Nebelraben zu rufen, auf Kosten von zwei weiteren Geistemblemen.<br>Dieser Segen ruft einen Schmerz väterlicher Zuneigung hervor. Dennoch leichtert er Wolfs Last, und lässt ihn an der Seite seines Vaters kämpfen.<br><br>Wie in alten Zeiten...<h3> |
