@@ -9,4 +9,4 @@
 |||
 | Korean | Translation needed |
 |||
-| German | <h3>**Blutrotes Tanto**</h3>Ein zeremonielles Tanto unbekannten Ursprungs. Verwendung kostet Geistembleme.<br><br>Schneide in das eigene Fleisch um eine Klinge mit Blutverleihung zu erlangen.<br><br>Dieses Messer ist der blutroten Sterblichen Klinge ähnlich, und blockiert somit die Auferstehungsmacht temporär.<br><br>In die Klinge ist sein wahrer Name eingraviert: "Ergebenes Fleisch".<br><br>Die Verwendung dieses Werkzeugs verlangt Vorsicht, denn die Selbstaufgabe auf der Suche nach Macht ist in der Tat tragisch.<h3>
+| German | <h3>**Blutrotes Tanto**</h3>Ein zeremonielles Tanto unbekannten Ursprungs. Verbraucht Geistembleme.<br>Schneide in das eigene Fleisch um eine Klinge mit Blut zu umhüllen.<br>Dieser Dolch ähnelt der blutroten Sterblichen Klinge, und blockiert somit die Auferstehungsmacht temporär. In die Klinge ist sein wahrer Name eingraviert: "Ergebenes Fleisch".<br>Dieses Werkzeug verlangt Vorsicht, denn die Selbstaufgabe auf der Suche nach Macht ist in der Tat tragisch.<h3> |

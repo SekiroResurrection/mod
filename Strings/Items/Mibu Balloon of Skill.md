@@ -9,4 +9,4 @@
 |||
 | Korean | Translation needed |
 |||
-| German | Translation needed |
+| German | <h3>**Mibu-Ballon der Fähigkeit**</h3>Ein Mibu-Ballon mit Urquellwasser, getränkt mit der Erfahrung eines Kriegers.<br><br>Wenn man den azurblauen Ballon zum Platzen bringt und betet, erhalten alle, auf die sein Wasser spritzt, einen Fähigkeitspunkt. Krieger, die an der Drachenquell-Pilgerreise teilnehmen, nutzen diesen Ballon oft als Ersatz für die geistige Belastung, die viele Jahre des Krieges mit sich bringt.<h3> |
