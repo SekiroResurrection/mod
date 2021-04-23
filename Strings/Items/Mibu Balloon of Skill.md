@@ -10,3 +10,7 @@
 | Korean | Translation needed |
 |||
 | German | <h3>**Mibu-Ballon der Fähigkeit**</h3>Ein Mibu-Ballon mit Urquellwasser, getränkt mit der Erfahrung eines Kriegers.<br><br>Wenn man den azurblauen Ballon zum Platzen bringt und betet, erhalten alle, auf die sein Wasser spritzt, einen Fähigkeitspunkt. Krieger, die an der Drachenquell-Pilgerreise teilnehmen, nutzen diesen Ballon oft als Ersatz für die geistige Belastung, die viele Jahre des Krieges mit sich bringt.<h3> |
+|||
+| Italian | <h3>**Sfera Mibu dell'Abilità**</h3>Un pallone Mibu pieno di acqua della sorgente, intrisa dell'esperienza di un guerriero.<br><br>Se si fa scoppiare questo pallone celeste mentre si prega, chi viene bagnato dall'acqua riceverà un Punto Abilità.<br>I guerrieri che prendono parte al pellegrinaggio alla Fonte di Drago usano spesso questa sfera come un sostituto per il fardello psicologico accumulato da lunghi anni di guerra.<h3> |
+|||
+| Spanish | <h3>**Esfera Mibu de la Habilidad**</h3>Una esfera Mibu llenada de agua del manantial, imbuida con la experiencia de un guerrero.<br><br>Si se revienta esta esfera azul celeste y se reza, aquellos a quienes salpique el agua recibirán un Punto de Habilidad.<br>Guerreros que participan en la peregrinación de Fuente del dragón usan a menudo esta sfera como un sustituto de la carga psicológica acumulada por largos años de guerra.<h3> |

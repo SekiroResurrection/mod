@@ -10,3 +10,7 @@
 | Korean | Translation needed |
 |||
 | German | <h3>**Blutrotes Tanto**</h3>Ein zeremonielles Tanto unbekannten Ursprungs. Verbraucht Geistembleme.<br>Schneide in das eigene Fleisch um eine Klinge mit Blut zu umhüllen.<br>Dieser Dolch ähnelt der blutroten Sterblichen Klinge, und blockiert somit die Auferstehungsmacht temporär. In die Klinge ist sein wahrer Name eingraviert: "Ergebenes Fleisch".<br>Dieses Werkzeug verlangt Vorsicht, denn die Selbstaufgabe auf der Suche nach Macht ist in der Tat tragisch.<h3> |
+|||
+| Italian | <h3>**Tanto Cremisi**</h3>Un Tanto Cerimoniale di origine ignota. Consuma Emblemi Spiritici con ogni uso.<br>Mutilati per ottenere l'effetto della Concessione sulla tua Spada.<br>Stranamente simile alla Lama Mortale Rossa, impedisce temporaneamente la resurrezione.<br>Sulla lama è inciso il suo vero nome: Corpo Devoto.<br>Uno deve stare attento quando usa questo oggetto, perché abbandonarsi alla ricerca della forza è una tragedia.<h3> |
+|||
+| Spanish | <h3>**Tanto Carmesí**</h3>Un Tanto Ceremonial de origen ignoto. Consume emblemas espirituales para usarlo.<br>Mutílate para obtener el efecto de la Concesión sobre tu Espada.<br>Siniestramente similar a la Espada Mortal Carmesí, impide temporalmente la resurrección.<br>La hoja tiene una inscripción con su nombre real: Cuerpo Devoto.<br>Uno debe tener cuidado cuando usa esto objeto, porque perderse nella búsqueda de la fuerza es cosa muy trágica.<h3> |
