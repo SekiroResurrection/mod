@@ -1,12 +1,12 @@
-# Lone Shadow Masamume the Crimson-Fang
+﻿# Lone Shadow Masamume the Crimson-Fang
 
 | Language | Name |
 | :------- | :---------- |
-| Japanese | Translation needed |
+| Japanese | 孤影衆　紅牙の正宗 |
 | Korean | Translation needed |
 | German | Einsamer Schatten Masamume die blutrote Klinge |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Italian | Ombra Solitaria Masamune la Zanna Cremisi |
+| Spanish | Sombra Solitaria Masamune lo Colmillo Carmesí |
 
 # Kamikaze Enthusiast - Kaiten Shi
 
