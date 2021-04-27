@@ -7,7 +7,7 @@
 |||
 | Japanese | <h3>**経験寄せのミブ風船**</h3>源の水を内に秘めた、戦勝祈願のミブ風船<br>紺碧色のミブ風船を割り拝み、<br>その水を浴びたものは、<br>一時的に経験値の入手量が上昇する<br>竜泉詣でに参加する戦場帰りの男衆は<br>長きに渡る戦で負った業を祓うため、<br>これを割り拝むのが習わしである<h3> |
 |||
-| Korean | Translation needed |
+| Korean | <h3>**경험이 담긴 미부 풍선**</h3>기원의 물을 안에 품은, 전쟁터에서 돌아온 병사들이 만들던 미부 풍선<br>청색 미부 풍선을 터트리고 기도하며 안에 있던 물을 뒤집어쓴 자는 스킬 포인트를 하나 얻는다<br>용천 참배의 해에, 살아남은 병사들은 전쟁터에서의 기억을 담아 풍선을 만들어 물에 흘려보낸다<br>흘러가는 풍선을 바라보며 전쟁의 참혹한 경험에서 벗어나길 기도하는 것이다 |
 |||
 | German | <h3>**Mibu-Ballon der Fähigkeit**</h3>Ein Mibu-Ballon mit Urquellwasser, getränkt mit der Erfahrung eines Kriegers.<br><br>Wenn man den azurblauen Ballon zum Platzen bringt und betet, erhalten alle, auf die sein Wasser spritzt, einen Fähigkeitspunkt. Krieger, die an der Drachenquell-Pilgerreise teilnehmen, nutzen diesen Ballon oft als Ersatz für die geistige Belastung, die viele Jahre des Krieges mit sich bringt.<h3> |
 |||
