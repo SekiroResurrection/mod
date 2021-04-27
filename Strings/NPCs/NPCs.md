@@ -28,12 +28,12 @@
 | Italian | Translation needed |
 | Spanish | Translation needed |
 
-# Glaive Master Hojiro
+# Glaive Master Houjiro
 
 | Language | Name |
 | :------- | :---------- |
 | Japanese | Translation needed |
 | Korean | Translation needed |
-| German | Meister der Glefe Hojiro |
+| German | Meister der Glefe Houjiro |
 | Italian | Translation needed |
 | Spanish | Translation needed |
