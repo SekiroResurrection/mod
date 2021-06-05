@@ -9,7 +9,7 @@
 |||
 | Korean | <h3>*피 흘리기**</h3>핏빛으로 물든 의식용 단도<br>HP와 카타시로를 소모하여 피의 칼날을 만든다<br>불사를 원하는 그릇된 욕망은 피와 살을 바치기에 이르렀다<br>원망의 피가 스며들어 검붉게 변한 단도는 불사베기를 닮았다<br>그것이 피의 칼날이 남아있는 동안 회생의 힘을 사용하지 못하는 이유<br>새겨졌던 이름은 "봉신"<br>하지만 피에 찌들어 이제는 알아볼 수 없다<br>비원을 위해 혼신을 바쳐라<br>그러나 부디 자멸하지 않도록 조심할 것 |
 |||
-| German | <h3>**Blutrotes Tanto**</h3>Ein zeremonielles Tanto unbekannten Ursprungs. Verbraucht Geistembleme.<br>Schneide in das eigene Fleisch um eine Klinge mit Blut zu umhüllen.<br>Dieser Dolch ähnelt der blutroten Sterblichen Klinge, und blockiert somit die Auferstehungsmacht temporär. In die Klinge ist sein wahrer Name eingraviert: "Ergebenes Fleisch".<br>Dieses Werkzeug verlangt Vorsicht, denn die Selbstaufgabe auf der Suche nach Macht ist in der Tat tragisch.<h3> |
+| German | <h3>**Blutrotes Tanto**</h3>Ein zeremonielles Tanto unbekannten Ursprungs. Verbraucht Geistembleme.<br>Schneide in das eigene Fleisch, um eine Klinge mit Blut zu umhüllen.<br>Dieser Dolch ähnelt der blutroten Sterblichen Klinge, und blockiert somit die Auferstehungsmacht temporär. In die Klinge ist sein wahrer Name eingraviert: "Ergebenes Fleisch".<br>Dieses Werkzeug verlangt Vorsicht, denn die Selbstaufgabe auf der Suche nach Macht ist in der Tat tragisch.<h3> |
 |||
 | Italian | <h3>**Tanto Cremisi**</h3>Un Tanto Cerimoniale di origine ignota. Consuma Emblemi Spiritici con ogni uso.<br>Mutilati per ottenere l'effetto della Concessione sulla tua Spada.<br>Stranamente simile alla Lama Mortale Rossa, impedisce temporaneamente la resurrezione.<br>Sulla lama è inciso il suo vero nome: Corpo Devoto.<br>Uno deve stare attento quando usa questo oggetto, perché abbandonarsi alla ricerca della forza è una tragedia.<h3> |
 |||
