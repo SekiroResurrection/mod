@@ -11,3 +11,7 @@
 | Korean | Translation Needed |
 |||
 | German | Translation Needed |
+|||
+| Italian | Translation Needed |
+|||
+| Spanish | Translation Needed |

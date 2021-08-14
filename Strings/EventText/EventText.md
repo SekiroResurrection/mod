@@ -9,7 +9,9 @@
 | English | Additional Option |
 | Japanese | 追加オプション |
 | Korean | Translation Needed |
-|||
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Aquire Bell Demon
 | Language | Name |
@@ -19,7 +21,9 @@
 | English | Aquire &lt;?gdsparam@3730?&gt; |
 | Japanese | &lt;?gdsparam@3730?&gt;を取得する |
 | Korean | Translation Needed |
-|||
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Additional Option - Description
 | Language | Name |
@@ -29,7 +33,9 @@
 | English | Additional options for idols. |
 | Japanese | さらなるオプション項目を表示します |
 | Korean | Translation Needed |
-|||
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Aquire Bell Demon - Description
 | Language | Name |
@@ -39,4 +45,6 @@
 | English | |
 | Japanese | |
 | Korean | |
-|||
+| German | |
+| Italian | |
+| Spanish | |

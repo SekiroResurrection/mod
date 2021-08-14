@@ -5,10 +5,10 @@
 | Text ID | 911042 |
 |||
 | Japanese | 赤備え武者　山縣昌茂 |
-| Korean | Translation needed |
-| German | Translation needed |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Korean | Translation Needed |
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Kamikaze Enthusiast - Kaiten Shi
 
@@ -19,8 +19,8 @@
 | Japanese | 寄鷹衆　神風のカイテン <br> Nightjar - Kaiten of Kamikaze|
 | Korean | Translation needed |
 | German | Kamikaze-Enthusiast Kaiten Shi |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Samurai General Ramiresu Arumando (Unused)
 
@@ -29,10 +29,10 @@
 | Text ID | 911056 |
 |||
 | Japanese | 侍大将　或萬堂らみれす |
-| Korean | Translation needed |
-| German | Translation needed |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Korean | Translation Needed |
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Ashina Elite - Fujiwara Takawara
 
@@ -41,10 +41,10 @@
 | Text ID | 911057 |
 |||
 | Japanese | 葦名流　藤原嵩義 <br> Ashina Elite - Fujiwara Takayoshi |
-| Korean | Translation needed |
-| German | Translation needed |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Korean | Translation Needed |
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Bell Mercenary - Keisu Ostaadiku
 
@@ -53,10 +53,10 @@
 | Text ID | 911058 |
 |||
 | Japanese | 鐘担ぎ　御洲唯の恵太郎 <br> Bell Carrier - Keitaro of Osutada |
-| Korean | Translation needed |
-| German | Translation needed |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Korean | Translation Needed |
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Lone Shadow Masamune the Crimson-Fang
 
@@ -76,11 +76,11 @@
 | :------- | :---------- |
 | Text ID | 911061 |
 |||
-| Japanese | 変若成れず <br> (Failure of Rejuvenation Experiment) |
-| Korean | Translation needed |
+| Japanese | 変若成れず <br> Failure of Rejuvenation Experiment |
+| Korean | Translation Needed |
 | German | Gescheitertes Experiment |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Glaive Master Houjiro
 
@@ -89,10 +89,10 @@
 | Text ID | 911062 |
 |||
 | Japanese | 仙峯寺薙刀術士　峯治郎 <br> Senpou Glaiver - Houjirou |
-| Korean | Translation needed |
+| Korean | Translation Needed |
 | German | Meister der Glefe Houjiro |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Bridgekeeper Shiramatsu
 
@@ -101,10 +101,10 @@
 | Text ID | 911059 |
 |||
 | Japanese | 橋守　シラマツ |
-| Korean | Translation needed |
-| German | Translation needed |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Korean | Translation Needed |
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
 
 # Wild Kenjustu Master
 
@@ -113,7 +113,7 @@
 | Text ID | 911302 |
 |||
 | Japanese | 落ち谷の剣豪猿 <br> Sword Master Monkey of Sunken Valley |
-| Korean | Translation needed |
-| German | Translation needed |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+| Korean | Translation Needed |
+| German | Translation Needed |
+| Italian | Translation Needed |
+| Spanish | Translation Needed |
