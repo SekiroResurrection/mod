@@ -32,8 +32,6 @@
 |||
 
 # Aquire Bell Demon - Description
-leave it empty
-
 | Language | Name |
 | :------- | :---------- |
 | Text Id | 15100451 |
