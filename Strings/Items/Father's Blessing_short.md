@@ -11,3 +11,7 @@
 | Korean | <h3>**의부의 축복**</h3>Translation Needed<h3> |
 |||
 | German | <h3>**Segen des Vaters**</h3>Translation Needed<h3> |
+|||
+| Italian | Translation Needed |
+|||
+| Spanish | Translation Needed |
