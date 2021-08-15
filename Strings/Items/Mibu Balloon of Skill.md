@@ -2,10 +2,11 @@
 
 | Language | Description |
 | :------- | :---------- |
+| Text ID | 3615 |
 |||
 | English | <h3>**Mibu Ballooon of Skill**</h3>A Mibu balloon filled with fountainhead water, imbued with the experiences of a warrior.<br>If one pops this azure balloon and prays, those its water splashes upon will acquire a single skill point.<br>Warriors who partake in the Dragonspring Pilgrimage often use this balloon as a surrogate for the mental burdens accumulated from long years at war.<h3> |
 |||
-| Japanese | <h3>**経験寄せのミブ風船**</h3>源の水を内に秘めた、戦勝祈願のミブ風船<br>紺碧色のミブ風船を割り拝み、<br>その水を浴びたものは、<br>一時的に経験値の入手量が上昇する<br>竜泉詣でに参加する戦場帰りの男衆は<br>長きに渡る戦で負った業を祓うため、<br>これを割り拝むのが習わしである<h3> |
+| Japanese | <h3>**経験寄せのミブ風船**</h3>源の水を内に秘めた、戦勝祈願のミブ風船<br><br>紺碧色のミブ風船を割り拝み、<br>その水を浴びたものは、<br>スキルポイントを一つ獲得する<br><br>竜泉詣でに参加する戦場帰りの男衆は<br>長きに渡る戦で負った業を祓うため、<br>これを割り拝むのが習わしである<h3> |
 |||
 | Korean | <h3>**경험이 담긴 미부 풍선**</h3>기원의 물을 안에 품은, 전쟁터에서 돌아온 병사들이 만들던 미부 풍선<br>청색 미부 풍선을 터트리고 기도하며 안에 있던 물을 뒤집어쓴 자는 스킬 포인트를 하나 얻는다<br>용천 참배의 해에, 살아남은 병사들은 전쟁터에서의 기억을 담아 풍선을 만들어 물에 흘려보낸다<br>흘러가는 풍선을 바라보며 전쟁의 참혹한 경험에서 벗어나길 기도하는 것이다 |
 |||
