@@ -2,8 +2,8 @@
 
 | Language | Name |
 | :------- | :---------- |
-| Text ID | 9063 |
-| Note | active but not in inventory<br>may get reworked in future |
+|||
+| Text ID | 9063 (Active but not in inventory) |
 |||
 | English | <h3>**Murasama's Pestilence**</h3><h3> |
 |||

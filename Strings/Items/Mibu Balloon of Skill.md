@@ -2,6 +2,7 @@
 
 | Language | Description |
 | :------- | :---------- |
+|||
 | Text ID | 3615 |
 |||
 | English | <h3>**Mibu Ballooon of Skill**</h3>A Mibu balloon filled with fountainhead water, imbued with the experiences of a warrior.<br>If one pops this azure balloon and prays, those its water splashes upon will acquire a single skill point.<br>Warriors who partake in the Dragonspring Pilgrimage often use this balloon as a surrogate for the mental burdens accumulated from long years at war.<h3> |

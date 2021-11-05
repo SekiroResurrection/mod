@@ -2,6 +2,7 @@
 
 | Language | Description |
 | :------- | :---------- |
+|||
 | Text ID | 2301 / 2302 |
 |||
 | English | <h3>**Crimson Tanto**</h3>A Ceremonial Tanto of unknown origin. Costs Spirit Emblems to use.<br><br>Cut into one's own flesh to aquire Bestowal effect on the Sword.<br><br>This dagger is eerily similar to the Red Mortal Blade, thus it temporarily blocks off resurrective powers when used.<br><br>The blade is inscribed with its true name: "Devoted Flesh"<br><br>One needs to be careful when using this item, as abandoning oneself in search of strength is a tragic thing, indeed.<h3> |

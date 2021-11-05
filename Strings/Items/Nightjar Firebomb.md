@@ -2,6 +2,7 @@
 
 | Language | Description |
 | :------- | :---------- |
+|||
 | Text ID | 3045 / 3046 |
 |||
 | English | <h3>**Nightjar Firebomb**</h3>A volatile explosive used by the Nightjar shinobi who defend Ashina.<br><br>Allows one to detonate a powerful explosive at the risk of death.<br><br>Nightjars are no strangers to the threat of death. In the face of adversity, it may even count as bravery, or perhaps it is reckless desperation.<br><br>Yet few can deny the results of this harbinger of death.<h3> |
@@ -12,6 +13,6 @@
 |||
 | German | <h3>Nachtschwalben-Feuerbombe</h3>Ein Sprengkörper des Nachtschwalben-Clans, welcher Ashina verteidigt.<br>Ermöglicht einem unter Einsatz des eigenen Lebens eine starke Explosion auszulösen.<br>Den Nachtschwalben ist das Risiko des Todes nicht unbekannt. Im Auge der Gefahr mag es manchmal wie Mut und manchmal wie rücksichtslose Verzweiflung scheinen.<br>Wenige jedoch können die Effizienz dieses Todbringers leugnen.<h3> |
 |||
-| Italian | Translation Needed |
+| Italian | Translation needed |
 |||
-| Spanish | Translation Needed |
+| Spanish | Translation needed |

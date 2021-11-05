@@ -2,7 +2,8 @@
 
 | Language | Description |
 | :------- | :---------- |
-| Text ID | currently unused? |
+|||
+| Text ID | Currently unused? |
 |||
 | English | <h3>**Father's Blessing**</h3>A blessing bestowed by a memory dwelling deep inside Wolf's mind.<br>Use to summon the Spirit of Father via Mist Raven for additional 2 Spirit Emblems.<br>This blessing invokes the pangs of paternal affection but can be used to relieve some of Wolf's karmic burden and manifest the image of Father to fight alongside him.<br><br>Just like old times...<h3> |
 |||
@@ -12,6 +13,6 @@
 |||
 | German | <h3>**Segen des Vaters**</h3>Ein Segen welcher Wolf durch Verweilen auf seinen eigenen Erinnerungen erlangte.<br>Wird verwendet um den Geist des Vaters mithilfe des Nebelraben zu rufen, auf Kosten von zwei weiteren Geistemblemen.<br>Dieser Segen ruft einen Schmerz väterlicher Zuneigung hervor. Dennoch leichtert er Wolfs Last und lässt ihn an der Seite seines Vaters kämpfen.<br><br>Wie in alten Zeiten...<h3> |
 |||
-| Italian | Translation Needed |
+| Italian | Translation needed |
 |||
-| Spanish | Translation Needed |
+| Spanish | Translation needed |
