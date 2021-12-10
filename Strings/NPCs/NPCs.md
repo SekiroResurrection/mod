@@ -11,9 +11,9 @@
 |||
 | German | Translation needed |
 |||
-| Italian | Translation needed |
+| Italian | Soldato d'Elite della Guardia Rossa - Yamagata Masashige |
 |||
-| Spanish | Translation needed |
+| Spanish | Soldado de Elite de la Guardia Roja - Yamagata Masashige |
 
 # Kamikaze Enthusiast - Kaiten Shi
 
@@ -28,9 +28,9 @@
 |||
 | German | Kamikaze-Enthusiast Kaiten Shi |
 |||
-| Italian | Translation needed |
+| Italian | Adepto del Vento Divino - Kaiten Shi |
 |||
-| Spanish | Translation needed |
+| Spanish | Adepto del Viento Divino - Kaiten Shi |
 
 # Samurai General Ramiresu Arumando (Unused)
 
@@ -62,9 +62,9 @@
 |||
 | German | Translation needed |
 |||
-| Italian | Translation needed |
+| Italian | Ashina Elite - Fujiwara Takawara |
 |||
-| Spanish | Translation needed |
+| Spanish | Ashina Elite - Fujiwara Takawara |
 
 # Bell Mercenary - Keisu Ostaadiku
 
@@ -79,9 +79,9 @@
 |||
 | German | Translation needed |
 |||
-| Italian | Translation needed |
+| Italian | Mercenario della Campana - Keisu Ostaadiku |
 |||
-| Spanish | Translation needed |
+| Spanish | Mercenario de la Campana - Keisu Ostaadiku |
 
 # Lone Shadow Masamune the Crimson-Fang
 
@@ -113,9 +113,9 @@
 |||
 | German | Gescheitertes Experiment |
 |||
-| Italian | Translation needed |
+| Italian | Esperimento Fallito |
 |||
-| Spanish | Translation needed |
+| Spanish | Experimento Fallido |
 
 # Glaive Master Houjiro
 
@@ -125,10 +125,14 @@
 | Text ID | 911062 |
 |||
 | Japanese | 仙峯寺薙刀術士　峯治郎 <br> Senpou Glaiver - Houjirou |
+|||
 | Korean | Translation needed |
+|||
 | German | Meister der Glefe Houjiro |
-| Italian | Translation needed |
-| Spanish | Translation needed |
+|||
+| Italian | Houjiro, Maestro del Falcione |
+|||
+| Spanish | Houjiro, Maestro de la Guja |
 
 # Bridgekeeper Shiramatsu
 
@@ -143,9 +147,9 @@
 |||
 | German | Translation needed |
 |||
-| Italian | Translation needed |
+| Italian | Shiramatsu, la Guardiana del Ponte |
 |||
-| Spanish | Translation needed |
+| Spanish | Shiramatsu, la Guardiana del Puente |
 
 # Wild Kenjustu Master
 
@@ -160,6 +164,6 @@
 |||
 | German | Translation needed |
 |||
-| Italian | Translation needed |
+| Italian | Maestro di Kenjutsu Selvatico |
 |||
-| Spanish | Translation needed |
+| Spanish | Maestro de Kenjutsu Salvaje |
