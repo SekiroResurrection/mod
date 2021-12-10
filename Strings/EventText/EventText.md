@@ -12,7 +12,7 @@
 |||
 | German | Translation needed |
 |||
-| Italian | Translation needed |
+| Italian | Opzione Aggiuntive |
 |||
 | Spanish | Translation needed |
 
@@ -30,7 +30,7 @@
 |||
 | German | Translation needed |
 |||
-| Italian | Translation needed |
+| Italian | Acquisisci &lt;?gdsparam@3730?&gt; |
 |||
 | Spanish | Translation needed |
 
@@ -48,7 +48,7 @@
 |||
 | German | Translation needed |
 |||
-| Italian | Translation needed |
+| Italian | Opzioni aggiuntive per gli idoli. |
 |||
 | Spanish | Translation needed |
 
